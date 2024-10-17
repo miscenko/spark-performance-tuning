@@ -231,3 +231,7 @@ spark-warehouse/
 # Daniel added
 src/main/resources/generated/
 .bsp
+
+**/*_SUCCESS*
+*.parquet.crc
+*.parquet
